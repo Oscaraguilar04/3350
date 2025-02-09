@@ -1,0 +1,31 @@
+What is the purpose of the code?
+
+    the purpose of this code is to pass a user input to organize  and print a list of numbers from least to greatest using the bubble sorting algorithm 
+
+What is the name of the sort algorithm used by Walter?
+
+    The name of the sorting algorithm is called Bubble sort
+
+Explain how list 1 will be processed by the program.
+
+List 1 is processed by first recieveing a value passed by the user, this value is then passed through an if statement that begins iterating through the vector array and swapping values in ascending order. 
+
+Explain how list 2 will be processed by the program.
+
+Because List 2 is already in ascending order, the bubble sort iterates through each value with no swaps causing the program to print the list as is.
+
+Explain what happens when you input 1.21?
+
+The program terminates and prompts the user to enter a valid input, list to sort.
+
+Explain what happens when you input two?
+
+The outcome of inputting 2 into the program is that it will print the entire list to the user.
+
+How many functions are used in the code?
+
+2 functions are present in his code, Vector<int> and the Main function.
+
+Run fixme.cpp several times and explain some of the weaknesses of this code. Also elaborate is how these could be fixed.
+
+One weakness of the code is that it stops running once an invalid input is passed through the program, one common fix is to run a while loop that runs the program again to check for a valid input instead of quitting the program outright.
