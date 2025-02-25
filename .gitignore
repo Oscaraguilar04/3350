@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 *.out 
 *.exe
 *.o 
+=======
+#ignore executables 
+*.out 
+*.exe 
+>>>>>>> b6d2ce0 (Initial commit)
  
 #ignore hidden "dot" files 
 .* 

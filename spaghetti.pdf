@@ -1,0 +1,7 @@
+The Purpose of this program was to take a list of numbers from the user and then print them in ascending order
+
+The Spaghetti Program appears to read user input to then place them onto an array to later sort by comparing the integers of the first and then the integer infront of the one before it to then place the integers in the correct order from least to greatest.
+
+One limitation I have discovered after running the code is that if the first two numbers inputted are 1 and 2, the program quits because I believe the program tries to take away 1 from 1 and forces it to stop while inputting a 4 does not work at all and fails to be outputted.
+
+One limitation of the code I can highlight is it's inability to handle 4 and 2 as it just breaks the program
