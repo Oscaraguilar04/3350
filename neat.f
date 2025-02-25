@@ -1,9 +1,9 @@
 C*****************************************************************
-C NAME: Harry Chaplin
-C ASGT: Activity 1
+C NAME: Oscar Aguilar
+C ASGT: Activity 2
 C ORGN: CSUB - CMPS 3500
-C FILE: spaghetti.f
-C DATE: 02/03/2021
+C FILE: Neat.f
+C DATE: 02/25/2025
 C*****************************************************************
 
       PROGRAM prime_number_generator
